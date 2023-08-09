@@ -1,0 +1,45 @@
+City Owner játék ötletek :
+
+
+2023. 07. 25. 
+- Küldetések a játékban
+- Menü elkészítése(többjátékos menü, beállítások, játék indítás stb.)
+- A járműveket tanokni kelljen mert egy idő után a benzin is elfogy
+- Sétáló NPC-k, Autót Vezető NPC-k, Boltos NPC-k, Étterem NPC-k
+- Időjárás Elkészítése
+- Telefon Elkészítése
+- Több jármű(Autó, vonat, repülő)
+- Pár Easter Egg a játékba (érdekesség)
+- Tárgyak hozzáadása(Telefon, Hangszoró, TV, Számítógép)
+- FPS Dropok fixálása(hirtelen leesik az FPS ezt kellene javítani)
+- Optimalizálás(mindent)
+- Engedélykérések a márkákra melyeket a játékban használva vannak (Fontos)
+- Devlog írásának elkezdése (egy Jegyzettömb (PC) amelyben a játék változásai vannak)
+- Szél implementálása a játékban(hozzáadása)
+- Szomjasság és éhség Hozzáadása(a játékosnak kötelező ennie, innia mert különben belehalhat)
+- Játék Mentés(Automatikus, Manuális)
+- Fejlesztők neve megtalálható legyen a menüben azon belül pedig a "játékról" menüpontban található
+- Ruhabolt, ahol ruhákat lehet venni majd azok megvehetőek és fel lehet venni(kivéve próbafülke, ott bármikor felpróbálhatóak a ruhák)
+- Több fejlesztő keresése akik különböző játérészeket készítenek el, Kellenek: Hang, Zene fejleszők (Akik a hangulatot befolyásolják és minél élvezetesebb legyen a játék), Szinkronizálás az NPC-k hangjait (akik az NPC-k hangjait a saját hangjukkal alkalmazzák)
+- Jogok kérése (cégek jogai melyek megengedték a márkájuk használatát és a jogaikat elkell kérni hogy mire használható és mire nem)
+- (A Béta tesztelésk minden hónap végén vannak, minden tesztelőt szivesen várunk hogy kipróbálja és értékelje a játék haladásának állapotát, beleértve bugok keresését is)
+- Különböző közösségi média fiókok létrehozása ( TikTok[Ajánlott], Instagram[Ajánlott], YouTube[Már létezik] )
+
+2023. 07. 27.
+- Számítógép Bolt Hozzáadása
+
+2023. 07. 28.
+- Új Skybox(égbolt)
+- Rendörség, tüzoltóság, korházak Épületek Hozzáadása
+- Animációk a Játékban (Karakter, Jármű, NPC Animációk)
+- Realisztikus Éjszaka (Hold, Csillagok)
+- Realisztikus Nappal (Nap, Felhők)
+
+2023. 07. 29.
+- Rendörség, tüzoltóság, korházak Épületek Hozzáadása
+- Ruhabolt, Híd épitése, Virágok,Bokrok,Fák, Étterem
+- Hajó, Tavak, Folyók, víz
+- Lakóautó, Büféskocsi
+- Tengerpart, Hot Dog árus
+- Tengerpart(Sziklák, kilátó, kagyló)
+- kuka, kerítés, különböző virágok

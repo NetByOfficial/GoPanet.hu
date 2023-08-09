@@ -1,1 +1,0 @@
-# GoPanet.hu

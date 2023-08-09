@@ -1,0 +1,16 @@
+{ - City Owner Devlog - }
+
+2023. 07. 29.
+- Devlog Létrehozása [NetBy]
+- Táblák Létrehozása [GergoPanda]
+- Telefon Fülke létrehozása [GergoPanda]
+- Menü létrehozása [NetBy]
+- Szüneteltetési menü létrehozása [NetBy]
+- TengerPart(PálmaFa, Napágy, büfé, hotdogárus, Sziklák, kilátó, kagyló) [NetBy, GergoPanda] 
+
+2023. 07. 30.
+- Buszmegálló Létrehozása, hozzáadása [GergoPanda, NetBy]
+- Bokor hozzáadása [NetBy]
+- Bench hozzáadása [NetBy]
+- Járda Létrehozása, hozzáadása [NetBy]
+- Benzinkút Létrehozása, hozzáadása [GergoPanda, NetBy]

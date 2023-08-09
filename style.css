@@ -2,10 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: aliceblue;
   }
   
   .container {
-    background-color: #000000;
+    background-color: #0c0f18;
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
@@ -14,7 +15,7 @@ body {
   
   header {
     color: white;
-    padding: 20px;
+    padding: 15px;
   }
   
   header h1 {
@@ -27,28 +28,28 @@ body {
   
   nav ul {
     list-style-type: none;
-    text-align: right;
+    text-align: center;
   }
-  
+
   nav ul li {
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 5px;
   }
   
   nav ul li a {
     color: #fff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(0, 0, 0);
+    background-color: #0c0f18;
     text-decoration: none;
-    padding: 10px;
-    font-size: 16px;
+    font-size: 15px;
     transition: all 0.3s;
     border-radius: 5px;
   }
   
   nav ul li a:hover {
-    color: black;
+    color: white;
     opacity: 70%;
+    background-color: #0a0b0f;
   }
   
   section {
@@ -66,7 +67,7 @@ body {
   }
   
   footer {
-    background-color: #333;
+    background-color: #0c0f18;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -81,28 +82,33 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
+    border-radius: 15px;
     position: relative;
     overflow: hidden;
   }
-  
+  .red{
+    color: rgb(175, 0, 0);
+    text-decoration: underline;
+  }
+  .center{
+    text-align: center;
+  }
   .product img {
     max-width: 100%;
     margin-bottom: 15px;
     transition: transform 0.3s;
   }
   
-  .product:hover img {
-    transform: scale(1.1);
-  }
+
   .product h2 {
     text-align: left;
-    scale: 1.5;
-    transition: all 0.3s;
+    scale: 1.0;
+    opacity: 0%;
+    transition: all 0.2s;
   }
   
   .product:hover h2 {
-    scale: 1.0;
+    opacity: 100%;
   }
   
   .product h3 {
@@ -116,8 +122,6 @@ body {
     margin-bottom: 15px;
   }
   
-
-
 
 
 
@@ -168,6 +172,10 @@ body {
     scale: 1.0;
   }
 
+  img{
+    border-radius: 15px;
+  }
+
 
 
 
@@ -188,7 +196,7 @@ body {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-    border-radius: 60px;
+    border-radius: 8px;
     cursor: pointer;
     transition: all 0.4s;
   }
@@ -198,7 +206,23 @@ body {
     color: black;
     opacity: 70%;
   }
-
+  .games{
+    text-decoration: none;
+    background-color: #53ac4f;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.4s;
+    padding: 0.4cm;
+    margin-left: -4cm;
+  }
+  .gameicon{
+    margin-left: 1cm;
+    height: 3cm;
+    width: 5cm;
+  }
   .description {
     text-decoration: none;
     background-color: #525252;
@@ -206,7 +230,7 @@ body {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-    border-radius: 60px;
+    border-radius: 8px;
     cursor: pointer;
     transition: all 0.4s;
   }
